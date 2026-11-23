@@ -19,7 +19,7 @@
     "@evo-aim/data": "workspace:*",
     "@evo-aim/engine": "workspace:*",
     "@evo-aim/ui": "workspace:*",
-    "better-sqlite3": "13.1.1",
+    "better-sqlite3": "13.2.0",
     "react": "19.3.1",
     "react-dom": "19.3.1",
     "react-router-dom": "7.18.5",
